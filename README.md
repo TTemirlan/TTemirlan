@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TTemirlan
+- 👀 I’m interested in blockchain and python development
+- 🌱 I’m currently learning Python and Solidity
+- 💞️ I’m looking to collaborate on my projects and looking for some feedback
+- 📫 How to reach me @qweppop on telegram
